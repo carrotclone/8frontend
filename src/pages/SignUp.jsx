@@ -121,4 +121,6 @@ const StyledInput = styled(Input)`
   display: inline-block;
   width:calc(100% - 168px) !important;
   margin-right:8px;
-`;
+`
+
+

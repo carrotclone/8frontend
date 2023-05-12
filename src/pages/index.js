@@ -5,3 +5,4 @@ import MyPage from './MyPage';
 import Main from './Main';
 
 export {Login, SignUp, Intro, MyPage, Main};
+

@@ -25,3 +25,4 @@ const StNavbar = styled.div`
     background-color:#fff;
     box-shadow: rgba(0, 0, 0, 0.1) 7px 7px 10px 10px ;
 `
+
